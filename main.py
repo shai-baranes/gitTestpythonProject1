@@ -10,12 +10,9 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('PyCharm') # comment
 
-    print("Hellow World")
-    print("Bye World")
-    print("Bye World2")
-    print("Bye World3")
+
 
 
 
